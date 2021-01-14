@@ -19,6 +19,6 @@
 пользоваться.
 ---------
 
-![logo]()
+![logo](https://github.com/alexander-pimenov/view-weather_pogoda/blob/master/src/main/java/assets/logo.png)
 
 [Пример взят из урока на YouTube](https://www.youtube.com/watch?v=sZgXUK5L3Ss&t=270s)
