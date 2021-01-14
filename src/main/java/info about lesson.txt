@@ -1,9 +1,7 @@
-Пример взят из урока на YouTube:
-https://www.youtube.com/watch?v=sZgXUK5L3Ss&t=270s
-
-На мастер-классе мы будем забирать погоду с других сервисов
-и демонстрировать её у себя в консоли. Темы, знание которых
-мы укрепим с помощью программирования приложения:
+Мы забираем погоду с других сервисов
+и демонстрируем её у себя в консоли.
+Темы, знание которых мы укрепим с
+помощью программирования приложения:
 
 - библиотека Jsoup;
 - CSS Query Language;
@@ -11,28 +9,15 @@ https://www.youtube.com/watch?v=sZgXUK5L3Ss&t=270s
 - ООП;
 - циклы;
 - массивы;
- -списки;
+- списки;
 - условные операторы;
 - работа со строками;
 - вывод на консоль.
 
 Это практика парсера сайтов на Java.
 
-Подписывайся на наш канал и смотри новые видео первым:
-https://www.youtube.com/progliveru
+Чем больше программируем, тем больше узнаем,
+чем пользоваться и как пользоваться.
 
-Проходи бесплатные курсы: https://goo.gl/4gG8TL
-Выбери профессию: https://goo.gl/WSdYSE
-Смотри вебинары: https://goo.gl/bBVKcb
-Читай статьи: https://goo.gl/XfJNqc
-Проверяй знания: https://goo.gl/gqKSsw
-
-ВКонтакте https://vk.com/geekbrainsru
-Facebook https://www.facebook.com/geekbrains.ru
-Одноклассники https://ok.ru/geekbrains
-Telegram https://t.me/geekbrains_ru
-Instagram https://www.instagram.com/geekbrains.ru/
-
-Чем больше программируем, тем больше узнаем, чем пользоваться и как
-пользоваться.
-
+Пример взят из урока на YouTube:
+https://www.youtube.com/watch?v=sZgXUK5L3Ss&t=270s

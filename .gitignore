@@ -25,14 +25,20 @@ hs_err_pid*
 # Settings of Intellij IDEA
 .idea
 .idea/
-
 *.iml
-*.class
 
 # Folders of IDEA
 out/
+out
 target/
+target
+bin
+bin/
 
-# Settings of Eclipse
+# Files from Eclipce
+.settings
 .settings/
+*.classpath
 .classpath
+*.project
+.project
